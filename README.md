@@ -10,5 +10,4 @@ https://goldenn.dev/Slope-Game
 https://goldenn.dev/tetris
 
 
-Thank you, 
-      - Golden!!#8008
+Brought to you by Golden!!#8008
