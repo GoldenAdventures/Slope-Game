@@ -2,7 +2,9 @@
 
 All pages have been transferred to a new domain, and can be found at https://goldenn.dev . 
 
-## Quick Links:
-**Slope Game**: https://goldenn.dev/Slope-Game
+## Slope Game: 
+https://goldenn.dev/Slope-Game
 
-**Tetris**: https://goldenn.dev/tetris
+
+## Tetris: 
+https://goldenn.dev/tetris
