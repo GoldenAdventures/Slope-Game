@@ -1,6 +1,6 @@
 # NOTICE:
 
-All pages have been transferred to a new domain, and can be found at https://goldenn.dev . 
+All pages have been transferred to a new domain, and can be found at [https://goldenn.dev](https://goldenn.dev/). 
 Remember to update your bookmarks with the new URL! Happy gaming!
 
 ## NEW!! Website Unblocker & Game library:
